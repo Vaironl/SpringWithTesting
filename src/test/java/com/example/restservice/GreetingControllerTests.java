@@ -18,6 +18,11 @@ class GreetingControllerTests {
 	}
 	
 	@Test
+	public void mainPageMessage() {
+		
+	}
+	
+	@Test
 	public void greetingShouldReturnName() {
 		
 		String name = "John Doe";
